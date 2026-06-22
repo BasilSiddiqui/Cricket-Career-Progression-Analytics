@@ -37,32 +37,39 @@ By treating a cricket career as a time series rather than a collection of isolat
 The analysis calculates cumulative career statistics after every match:
 
 ### Career Economy Rate
+#### Average number of runs given per over
 ![Economy](Images/economy.png)
-Measures how many runs are conceded per over throughout the player's career.
+Shows the lack of experience in the beginning where the scores are higher (especially the first gamme). Overtime, the economy goes from 9 to around 7 and thats where I started becoming really good at it. After around match 40, I started playing with senior teams and the economy increased to what it is now at around the mean of 8.
 
 ### Career Strike Rate
+#### Average number of balls taken per wicket
 ![SR](Images/strikerate.png)
-Tracks the average number of balls required to take a wicket across the entire career.
+The reason the line starts later is because I did not take my first wicket until the 5th game, and then the second wicket 7 games later. Shows the inexperience. Finally after around match 30 did the strike rate start to get lower gradually towards the mean 24.
 
 ### Career Bowling Average
+#### Average number of runs concieved per wicket
 ![Average](Images/average.png)
-Measures the number of runs conceded per wicket over time.
+The graph beautifully mimics the previous lines as the formula for strike rate and average revolve around the same essentials.
 
 ### Career Wickets
+#### Cumulative Wickets
 ![Wickets](Images/wickets.png)
-Tracks cumulative wickets and highlights periods of rapid growth.
+We can see the flattened out bits of the curve showing my wicketless spells, and also the spikes where I started collecting more.
 
 ### Career Overs Bowled
+#### Cumulative Overs
 ![Overs](Images/overs.png)
-Measures accumulated workload and experience.
+Overall quite straight of a line, showing how I regularly bowl 3-4 overs every match. Thats expected of a strike bowler (huumbly speaking).
 
 ### Career Runs Conceded
+#### Cumulative Runs Conceded
 ![Runs](Images/runs.png)
-Provides context for the evolution of bowling metrics.
+Also a relatively straight line, a slight bump around match 70 where I probably got smacked.
 
 ### Maidens Bowled
+#### Cumulative Maidens Bowled
 ![Maidens](Images/maidens.png)
-Provides context for the evolution of bowling metrics.
+Shows how rare bowling maidens is in t20, only bowled 2 and its been 40 matches since I last bowled one. Almost bowled another in match 110 but the fielder messed it up.
 
 ---
 
