@@ -39,7 +39,7 @@ The analysis calculates cumulative career statistics after every match:
 ### Career Economy Rate
 #### Average number of runs given per over
 ![Economy](Images/economy.png)
-Shows the lack of experience in the beginning where the scores are higher (especially the first gamme). Overtime, the economy goes from 9 to around 7 and thats where I started becoming really good at it. After around match 40, I started playing with senior teams and the economy increased to what it is now at around the mean of 8.
+Shows the lack of experience in the beginning where the scores are higher (especially the first game). Overtime, the economy goes from 9 to around 7 and thats where I started becoming really good at it. After around match 40, I started playing with senior teams and the economy increased to what it is now at around the mean of 8.
 
 ### Career Strike Rate
 #### Average number of balls taken per wicket
@@ -59,7 +59,7 @@ We can see the flattened out bits of the curve showing my wicketless spells, and
 ### Career Overs Bowled
 #### Cumulative Overs
 ![Overs](Images/overs.png)
-Overall quite straight of a line, showing how I regularly bowl 3-4 overs every match. Thats expected of a strike bowler (huumbly speaking).
+Overall quite straight of a line, showing how I regularly bowl 3-4 overs every match. Thats expected of a strike bowler (humbly speaking).
 
 ### Career Runs Conceded
 #### Cumulative Runs Conceded
