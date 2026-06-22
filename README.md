@@ -37,27 +37,31 @@ By treating a cricket career as a time series rather than a collection of isolat
 The analysis calculates cumulative career statistics after every match:
 
 ### Career Economy Rate
-
+![Economy](Images/economy.png)
 Measures how many runs are conceded per over throughout the player's career.
 
 ### Career Strike Rate
-
+![SR](Images/strikerate.png)
 Tracks the average number of balls required to take a wicket across the entire career.
 
 ### Career Bowling Average
-
+![Average](Images/average.png)
 Measures the number of runs conceded per wicket over time.
 
 ### Career Wickets
-
+![Wickets](Images/wickets.png)
 Tracks cumulative wickets and highlights periods of rapid growth.
 
 ### Career Overs Bowled
-
+![Overs](Images/overs.png)
 Measures accumulated workload and experience.
 
 ### Career Runs Conceded
+![Runs](Images/runs.png)
+Provides context for the evolution of bowling metrics.
 
+### Maidens Bowled
+![Maidens](Images/maidens.png)
 Provides context for the evolution of bowling metrics.
 
 ---
