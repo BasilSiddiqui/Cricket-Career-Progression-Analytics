@@ -41,15 +41,11 @@ The analysis calculates cumulative career statistics after every match:
 ![Economy](Images/economy.png)
 Shows the lack of experience in the beginning where the scores are higher (especially the first game). Overtime, the economy goes from 9 to around 7 and thats where I started becoming really good at it. After around match 40, I started playing with senior teams and the economy increased to what it is now at around the mean of 8.
 
-### Career Strike Rate
+### Career Average and Strike Rate
 #### Average number of balls taken per wicket
-![SR](Images/strikerate.png)
-The reason the line starts later is because I did not take my first wicket until the 5th game, and then the second wicket 7 games later. Shows the inexperience. Finally after around match 30 did the strike rate start to get lower gradually towards the mean 24.
-
-### Career Bowling Average
-#### Average number of runs concieved per wicket
-![Average](Images/average.png)
-The graph beautifully mimics the previous lines as the formula for strike rate and average revolve around the same essentials.
+![SR](Images/average_and_strikerate.png)
+The reason the lines starts later is because I did not take my first wicket until the 5th game, and then the second wicket 7 games later. Shows the inexperience. Finally after around match 30 did the strike rate start to get lower gradually towards the mean 24.
+The average line beautifully mimics the strike rate lines as the formula for strike rate and average revolve around the same essentials.
 
 ### Career Wickets
 #### Cumulative Wickets
