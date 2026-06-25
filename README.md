@@ -59,7 +59,7 @@ Took about 40+ games to finally have a 50-50 win-loss ratio after the first 2 ga
 
 ### Career Matches With Wickets Overtime
 #### With dates as y-axeis
-![Matches and Wickets](Images/matches_and_wickets.png)
+![Matches and Wickets](Images/matches_wickets.png)
 We can see the massive flat line of almost 2 years, that was when I started A-levels and later picked up again after joining university.
 
 ### Career Overs Bowled
