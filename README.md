@@ -43,7 +43,7 @@ Shows the lack of experience in the beginning where the scores are higher (espec
 
 ### Career Average and Strike Rate
 #### Average number of balls and runs per wicket
-![SR](Images/average_and_strikerate.png)
+![Average and Strikerate](Images/average_and_strikerate.png)
 The reason the lines starts later is because I did not take my first wicket until the 5th game, and then the second wicket 7 games later. Shows the inexperience. Finally after around match 30 did the strike rate start to get lower gradually towards the mean 24.
 The average line beautifully mimics the strike rate lines as the formula for strike rate and average revolve around the same essentials.
 
@@ -51,6 +51,16 @@ The average line beautifully mimics the strike rate lines as the formula for str
 #### Cumulative Wickets
 ![Wickets](Images/wickets.png)
 We can see the flattened out bits of the curve showing my wicketless spells, and also the spikes where I started collecting more.
+
+### Career Win Percentage
+#### Win/(Loss+Tie)
+![WL](Images/win_percentage.png)
+Took about 40+ games to finally have a 50-50 win-loss ratio after the first 2 games. Defenders had a habit of losing and joining Heriot helped win more often.
+
+### Career Matches With Wickets Overtime
+#### With dates as y-axeis
+![Matches and Wickets](Images/matches_and_wickets.png)
+We can see the massive flat line of almost 2 years, that was when I started A-levels and later picked up again after joining university.
 
 ### Career Overs Bowled
 #### Cumulative Overs
