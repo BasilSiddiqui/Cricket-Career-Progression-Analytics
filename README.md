@@ -67,6 +67,11 @@ We can see the massive flat line of almost 2 years, that was when I started A-le
 ![Overs](Images/overs.png)
 Overall quite straight of a line, showing how I regularly bowl 3-4 overs every match. Thats expected of a strike bowler (humbly speaking).
 
+### Career Average Over Load Per Match
+#### Cumulative Overs Per Match
+![Runs](Images/overs_per_match.png)
+Very visible that I wasn't given full 4 overs in the beginning of my career as I was not as reliable. Overtime I started bowling full overs and now the average is reaching 3 overs per match.
+
 ### Career Runs Conceded
 #### Cumulative Runs Conceded
 ![Runs](Images/runs.png)
